@@ -1,0 +1,1164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Audi v1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/twentyten\n"
+"POT-Creation-Date: 2010-07-14 16:21+0000\n"
+"PO-Revision-Date: 2013-12-26 14:26:37+0000\n"
+"Last-Translator: Sergey Biryukov <sergeybiryukov.ru@gmail.com>\n"
+"Language-Team: ru.wordpress.org <sergeybiryukov.ru@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: S:/home/wordpress/trunk/wp-content/themes/twentyten\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: S:/home/wordpress/trunk/wp-content/themes/twentyten\n"
+"X-Textdomain-Support: yes"
+
+#: functions.php:600
+#@ twentyten
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: functions.php:601
+#@ twentyten
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Извините, но запрошенную вами страницу найти не удалось. Попробуйте найти её с помощью поиска."
+
+#: archive.php:26
+#, php-format
+#@ twentyten
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Архив за день: <span>%s</span>"
+
+#: archive.php:28
+#, php-format
+#@ twentyten
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Архив за месяц: <span>%s</span>"
+
+#: archive.php:30
+#, php-format
+#@ twentyten
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Архив за год: <span>%s</span>"
+
+#: archive.php:41
+#@ twentyten
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: content-attachment.php:26
+#, php-format
+#@ twentyten
+msgid "Return to %s"
+msgstr "Вернуться: %s"
+
+#: content-attachment.php:27
+#, php-format
+#@ twentyten
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: functions.php:412
+#, php-format
+#@ twentyten
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Автор:</span> %2$s"
+
+#: functions.php:416
+#, php-format
+#@ twentyten
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#: functions.php:403
+#, php-format
+#@ twentyten
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Опубликовано</span> %2$s"
+
+#: content-attachment.php:77
+#, php-format
+#@ twentyten
+msgid "Full size is %s pixels"
+msgstr "Полный размер: %s пикселей"
+
+#: content-attachment.php:80
+#@ twentyten
+msgid "Link to full-size image"
+msgstr "Ссылка на полноразмерное изображение"
+
+#: functions.php:444
+#@ twentyten
+msgid "Edit"
+msgstr "Изменить"
+
+#: functions.php:489
+#: functions.php:504
+#@ twentyten
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:17
+#@ twentyten
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы посмотреть комментарии."
+
+#: comments.php:26
+#, php-format
+#@ twentyten
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%1$s комментарий: %2$s"
+msgstr[1] "%1$s комментария: %2$s"
+msgstr[2] "%1$s комментариев: %2$s"
+
+#: functions.php:91
+#@ twentyten
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: functions.php:774
+#@ twentyten
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: functions.php:771
+#, php-format
+#@ twentyten
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: functions.php:772
+#: functions.php:788
+#@ twentyten
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#: functions.php:788
+#@ twentyten
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: library/sidebars.php:10
+#@ twentyten
+msgid "Primary Widget Area"
+msgstr "Основная область"
+
+#: library/sidebars.php:12
+#@ twentyten
+msgid "Secondary Widget Area"
+msgstr "Дополнительная область"
+
+#: library/sidebars.php:23
+#@ twentyten
+msgid "First Footer Widget Area"
+msgstr "Первая область подвала"
+
+#: library/sidebars.php:24
+#@ twentyten
+msgid "Second Footer Widget Area"
+msgstr "Вторая область подвала"
+
+#: library/sidebars.php:25
+#@ twentyten
+msgid "Third Footer Widget Area"
+msgstr "Третья область подвала"
+
+#: library/sidebars.php:26
+#@ twentyten
+msgid "Fourth Footer Widget Area"
+msgstr "Четвёртая область подвала"
+
+#: content-gallery.php:35
+#, php-format
+#@ twentyten
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка: %s"
+
+#: functions.php:437
+#@ twentyten
+msgid "Leave a comment"
+msgstr "Добавить комментарий"
+
+#: functions.php:437
+#@ twentyten
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: functions.php:437
+#@ twentyten
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: functions.php:425
+#, php-format
+#@ twentyten
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Рубрика:</span> %2$s"
+
+#: functions.php:431
+#, php-format
+#@ twentyten
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Метки:</span> %2$s"
+
+#: search.php:16
+#, php-format
+#@ twentyten
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: search.php:35
+#@ twentyten
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:36
+#@ twentyten
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-gallery.php:34
+#, php-format
+#@ twentyten
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: library/shortcodes.php:74
+#, php-format
+#@ twentyten
+msgid "%s RSS Feed"
+msgstr ""
+
+#: footer.php:15
+#, php-format
+#@ twentyten
+msgid "%d queries. %s seconds."
+msgstr "%d запросов. %s секунд."
+
+#: functions.php:174
+#: library/admins.php:8
+#: library/admins.php:141
+#: library/admins.php:148
+#: library/widgets.php:116
+#@ twentyten
+msgid "Theme Options"
+msgstr "Параметры шаблона"
+
+#: functions.php:494
+#: library/options.php:6
+#: library/options.php:229
+#@ twentyten
+msgid "Pages"
+msgstr "Страницы"
+
+#: functions.php:725
+#@ twentyten
+msgid "Previous Post"
+msgstr "Предыдущие сообщения"
+
+#: functions.php:725
+#@ twentyten
+msgid "Next Post"
+msgstr "Следующее сообщение"
+
+#: library/admins.php:25
+#@ twentyten
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: library/admins.php:31
+#@ twentyten
+msgid "Settings restored."
+msgstr "Настройки отменены."
+
+#: library/admins.php:90
+#@ twentyten
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#: library/admins.php:91
+#@ twentyten
+msgid "Reset to Default"
+msgstr "Восстановить значения по умолчанию"
+
+#: library/defaults.php:45
+#@ twentyten
+msgid "Tag Cloud"
+msgstr "Облако меток"
+
+#: library/defaults.php:47
+#@ twentyten
+msgid "Random posts"
+msgstr "Случайные записи"
+
+#: library/navigation.php:219
+#, php-format
+#@ twentyten
+msgid "View all posts in %s"
+msgstr "Просмотреть все записи %s"
+
+#: library/options.php:323
+#@ twentyten
+msgid "Footer"
+msgstr "Подвал"
+
+#: library/options.php:334
+#@ twentyten
+msgid "Footer content"
+msgstr "Текст в подвале"
+
+#: library/options.php:335
+#, php-format
+#@ twentyten
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Вы можете использовать теги: <code>%s</code>"
+
+#: library/options.php:336
+#, php-format
+#@ twentyten
+msgid "<strong>ShortTags:</strong><code>%s</code>"
+msgstr "<strong>Короткий код:</strong><code>%s</code>"
+
+#: library/options.php:7
+#@ twentyten
+msgid "Categories"
+msgstr "Рубрики"
+
+#: library/options.php:11
+#@ twentyten
+msgid "Block style"
+msgstr "Стиль блока"
+
+#: library/options.php:12
+#@ twentyten
+msgid "Post style"
+msgstr "Стиль записи"
+
+#: library/options.php:13
+#@ twentyten
+msgid "Simple text"
+msgstr "Простой текст"
+
+#: library/options.php:17
+#@ twentyten
+msgid "<H1>"
+msgstr ""
+
+#: library/options.php:18
+#@ twentyten
+msgid "<H2>"
+msgstr ""
+
+#: library/options.php:19
+#@ twentyten
+msgid "<H3>"
+msgstr ""
+
+#: library/options.php:20
+#@ twentyten
+msgid "<H4>"
+msgstr ""
+
+#: library/options.php:21
+#@ twentyten
+msgid "<H5>"
+msgstr ""
+
+#: library/options.php:22
+#@ twentyten
+msgid "<H6>"
+msgstr ""
+
+#: library/options.php:23
+#@ twentyten
+msgid "<DIV>"
+msgstr ""
+
+#: library/options.php:35
+#@ twentyten
+msgid "Header"
+msgstr "Заголовок"
+
+#: library/options.php:40
+#@ twentyten
+msgid "Show headline"
+msgstr "Показать заголовок"
+
+#: library/options.php:41
+#: library/options.php:47
+#: library/options.php:71
+#: library/options.php:84
+#: library/options.php:90
+#: library/options.php:123
+#: library/options.php:129
+#: library/options.php:135
+#: library/options.php:141
+#: library/options.php:147
+#: library/options.php:153
+#: library/options.php:170
+#: library/options.php:218
+#: library/options.php:235
+#: library/options.php:248
+#: library/options.php:265
+#: library/options.php:330
+#: library/options.php:439
+#: library/options.php:445
+#: library/options.php:456
+#: library/options.php:462
+#: library/options.php:468
+#: library/options.php:474
+#: library/options.php:485
+#@ twentyten
+msgid "Yes"
+msgstr "Да"
+
+#: library/options.php:46
+#@ twentyten
+msgid "Show slogan"
+msgstr "Показать описание"
+
+#: library/options.php:65
+#@ twentyten
+msgid "Navigation Menu"
+msgstr "Навигационное меню"
+
+#: library/options.php:70
+#@ twentyten
+msgid "Show home item"
+msgstr "Показать главную"
+
+#: library/options.php:76
+#@ twentyten
+msgid "Home item caption"
+msgstr "Название для ссылки на главную"
+
+#: library/options.php:83
+#@ twentyten
+msgid "Highlight active categories"
+msgstr "Выделить активные рубрики"
+
+#: library/options.php:89
+#@ twentyten
+msgid "Trim long menu items"
+msgstr "Тримировать длинные пункты меню"
+
+#: library/options.php:95
+#@ twentyten
+msgid "Limit each item to [N] characters"
+msgstr "Лимит для каждого элемента [N] символов"
+
+#: library/options.php:102
+#@ twentyten
+msgid "Limit each subitem to [N] characters"
+msgstr "Лимит для вложенного уровня, [N] символов"
+
+#: library/options.php:110
+#@ twentyten
+msgid "Default menu source"
+msgstr "Источник меню по умолчанию"
+
+#: library/options.php:113
+#@ twentyten
+msgid "Displayed when Appearance > Menu > Primary menu is not set"
+msgstr "Отображается, когда Внешний вид &gt; Меню &gt; Главное меню не установлен"
+
+#: library/options.php:117
+#@ twentyten
+msgid "Posts"
+msgstr "Записи"
+
+#: library/options.php:122
+#@ twentyten
+msgid "Show navigation links at the top of front posts page"
+msgstr "Показать навигационное меню в верхней части главной страницы"
+
+#: library/options.php:128
+#@ twentyten
+msgid "Show navigation links at the top of posts page"
+msgstr "Показать навигационное меню на странице следующего уровня"
+
+#: library/options.php:134
+#@ twentyten
+msgid "Show navigation links at the bottom of posts page"
+msgstr "Показать навигационное меню внизу главной страницы"
+
+#: library/options.php:140
+#@ twentyten
+msgid "Show top navigation links in single post view"
+msgstr "Показать вверху ссылки навигации на странице просмотра одной записи"
+
+#: library/options.php:146
+#@ twentyten
+msgid "Show bottom navigation links in single post view"
+msgstr "Показывать навигационные ссылки внизу страницы просмотра отдельной записи"
+
+#: library/options.php:152
+#@ twentyten
+msgid "Trim long navigation links in single post view"
+msgstr "Тримировать длинные навигационные ссылки на странице просмотра отдельной записи"
+
+#: library/options.php:158
+#@ twentyten
+msgid "Limit each link to [N] characters"
+msgstr "Лимит симоволов в названии [N]"
+
+#: library/options.php:164
+#@ twentyten
+msgid "Featured Image"
+msgstr "Избранная картинка"
+
+#: library/options.php:169
+#@ twentyten
+msgid "Use featured image as thumbnail"
+msgstr "Использовать избранную картинка как миниатюру"
+
+#: library/options.php:175
+#@ twentyten
+msgid "Use auto thumbnails"
+msgstr "Использовать автоматическое создание миниатюры"
+
+#: library/options.php:176
+#@ twentyten
+msgid "Generate post thumbnails automatically (use the first image from the post gallery)"
+msgstr "Генерировать миниатюру автоматически (используя первое изображение с поста галерея)"
+
+#: library/options.php:181
+#@ twentyten
+msgid "Thumbnail width"
+msgstr "Ширина миниатюры"
+
+#: library/options.php:182
+#: library/options.php:188
+#@ twentyten
+msgid "(px)"
+msgstr ""
+
+#: library/options.php:187
+#@ twentyten
+msgid "Thumbnail height"
+msgstr "Высота миниатюры"
+
+#: library/options.php:192
+#@ twentyten
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: library/options.php:197
+#@ twentyten
+msgid "Use auto excerpts"
+msgstr "Использовать авто отрывок"
+
+#: library/options.php:198
+#@ twentyten
+msgid "Generate post excerpts automatically (When neither more-tag nor post excerpt is used)"
+msgstr "Генерировать создания отрывка автоматически (когда не используется тег more)"
+
+#: library/options.php:203
+#@ twentyten
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: library/options.php:210
+#@ twentyten
+msgid "Excerpt balance"
+msgstr "Баланс отрывка"
+
+#: library/options.php:217
+#@ twentyten
+msgid "Apply excerpt tag filter"
+msgstr "Применить фильтр тегов для отрывка"
+
+#: library/options.php:223
+#@ twentyten
+msgid "Allowed excerpt tags"
+msgstr "Разрешенные теги для отрывка"
+
+#: library/options.php:224
+#@ twentyten
+msgid "Used when \"Apply excerpt tag filter\" is enabled"
+msgstr "Используется, когда \"Применить фильтр тегов для отрывка\" включен"
+
+#: library/options.php:234
+#@ twentyten
+msgid "Show random posts on 404 page"
+msgstr "Показывать Случайные записи на странице ошибки 404"
+
+#: library/options.php:240
+#@ twentyten
+msgid "Title for random posts"
+msgstr "Заголовок для блока - Случайные записи"
+
+#: library/options.php:242
+#@ twentyten
+msgid "Used when \"Show random posts on 404 page\" is enabled"
+msgstr "Используйте когда \"Показать Случайные записи на странице ошибки 404\" включен"
+
+#: library/options.php:247
+#@ twentyten
+msgid "Show tags on 404 page"
+msgstr "Показать Облако меток на странице ошибки 404"
+
+#: library/options.php:253
+#@ twentyten
+msgid "Title for tags"
+msgstr "Заголовок для секции - Облако меток"
+
+#: library/options.php:255
+#@ twentyten
+msgid "Used when \"Show tags on 404 page\" is enabled"
+msgstr "Используйте когда \"Показать Облако меток на странице ошибки 404\" включен"
+
+#: library/options.php:259
+#: library/widgets.php:222
+#@ twentyten
+msgid "Comments"
+msgstr "Комментарии"
+
+#: library/options.php:264
+#@ twentyten
+msgid "Allow Comments"
+msgstr "Разрешить комментарии"
+
+#: library/options.php:270
+#@ twentyten
+msgid "Use smilies in comments"
+msgstr "Использование смайликов в комментариях"
+
+#: library/options.php:276
+#@ twentyten
+msgid "Sidebars"
+msgstr "Сайдбары"
+
+#: library/options.php:278
+#@ twentyten
+msgid "Default widgets style"
+msgstr "Стиль виджетов по умолчанию"
+
+#: library/options.php:282
+#@ twentyten
+msgid "Primary sidebar"
+msgstr "Главный сайдбар"
+
+#: library/options.php:288
+#@ twentyten
+msgid "Secondary sidebar"
+msgstr "Вторичный сайдбар"
+
+#: library/options.php:300
+#@ twentyten
+msgid "Top sidebars"
+msgstr "Сайдбар вверху контента"
+
+#: library/options.php:306
+#@ twentyten
+msgid "Bottom sidebars"
+msgstr "Сайдбар внизу контента"
+
+#: library/options.php:318
+#@ twentyten
+msgid "Footer sidebars"
+msgstr "Сайдбар в подвале"
+
+#: library/options.php:342
+#@ twentyten
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: library/options.php:344
+#, php-format
+#@ twentyten
+msgid "Use the %s short code to insert these ads into posts, text widgets or footer"
+msgstr "Используйте %s короткий код для вставки этих объявлений в записи, текстовые виджеты или нижний колонтитул"
+
+#: library/options.php:345
+#@ twentyten
+msgid "Example:"
+msgstr "Пример:"
+
+#: library/options.php:349
+#: library/options.php:354
+#: library/options.php:359
+#: library/options.php:364
+#: library/options.php:369
+#, php-format
+#@ twentyten
+msgid "Ad code #%s:"
+msgstr "Добавить код #%s:"
+
+#: library/options.php:373
+#@ twentyten
+msgid "Headings for the posts page"
+msgstr "Заголовки на странице записей"
+
+#: library/options.php:379
+#: library/options.php:409
+#@ twentyten
+msgid "Tag for the headline"
+msgstr "Тег для заголовка"
+
+#: library/options.php:385
+#: library/options.php:415
+#@ twentyten
+msgid "Tag for the slogan"
+msgstr "Тег для слогана"
+
+#: library/options.php:392
+#: library/options.php:422
+#@ twentyten
+msgid "Tag for the article"
+msgstr "Тег для статьи"
+
+#: library/options.php:398
+#: library/options.php:428
+#@ twentyten
+msgid "Tag for the widgets"
+msgstr "Тег для виджетов"
+
+#: library/options.php:403
+#@ twentyten
+msgid "Headings for the single post or page"
+msgstr "Заголовки для одного сообщения или страницы"
+
+#: library/options.php:438
+#@ twentyten
+msgid "Show in Menu"
+msgstr "Показывать в меню"
+
+#: library/options.php:444
+#@ twentyten
+msgid "Show as Separator in Menu"
+msgstr "Показать как разделитель в меню"
+
+#: library/options.php:450
+#@ twentyten
+msgid "Title in Menu"
+msgstr "Название в меню"
+
+#: library/options.php:455
+#@ twentyten
+msgid "Show Title on Page"
+msgstr "Показать Название на странице"
+
+#: library/options.php:484
+#@ twentyten
+msgid "Show Title on Single Page"
+msgstr "Показать Название на странице просмотра одной записи"
+
+#: library/shortcodes.php:17
+#@ twentyten
+msgid "RSS Feeds"
+msgstr "RSS Лента"
+
+#: library/shortcodes.php:34
+#, php-format
+#@ twentyten
+msgid "Empty ad slot (#%s)!"
+msgstr "Пустой слот объявления (#%s)!"
+
+#: library/shortcodes.php:39
+#@ twentyten
+msgid "Top"
+msgstr "Верх"
+
+#: library/shortcodes.php:45
+#@ twentyten
+msgid "Site Admin"
+msgstr "Site Admin"
+
+#: library/shortcodes.php:47
+#@ twentyten
+msgid "Log in"
+msgstr "Виджет Входа на сайт"
+
+#: library/sidebars.php:10
+#@ twentyten
+msgid "This is the default sidebar, visible on 2 or 3 column layouts. If no widgets are active, the default theme widgets will be displayed instead."
+msgstr "Это Сайдбар по умолчанию, отображается в 2-х или 3х колоночном макете. Если нет активных виджетов, будут отображаться виджеты по умолчанию вместо выбранных вами."
+
+#: library/sidebars.php:12
+#@ twentyten
+msgid "This sidebar is active only on a 3 column setup."
+msgstr "Этот Сайдбар активен только в 3-х колоночном макете."
+
+#: library/sidebars.php:18
+#@ twentyten
+msgid "First Top Widget Area"
+msgstr "Первый виджет перед контентом"
+
+#: library/sidebars.php:18
+#: library/sidebars.php:19
+#@ twentyten
+msgid "This sidebar is displayed above the main content."
+msgstr "Этот сайдбар отображается вверху перед контентом."
+
+#: library/sidebars.php:19
+#@ twentyten
+msgid "Second Top Widget Area"
+msgstr "Второй виджет перед контентом"
+
+#: library/sidebars.php:20
+#@ twentyten
+msgid "First Bottom Widget Area"
+msgstr "Виджет внизу после контента"
+
+#: library/sidebars.php:20
+#: library/sidebars.php:21
+#@ twentyten
+msgid "This sidebar is displayed below the main content."
+msgstr "Этот сайдбар отображается сразу после контента"
+
+#: library/sidebars.php:21
+#@ twentyten
+msgid "Second Bottom Widget Area"
+msgstr "Второй виджет после контента"
+
+#: library/sidebars.php:23
+#@ twentyten
+msgid "The first footer widget area. You can add a text widget for custom footer text."
+msgstr "Первая нижняя часть виджета. Вы можете добавить текстовый виджет для пользовательских текстов нижнего колонтитула."
+
+#: library/sidebars.php:24
+#@ twentyten
+msgid "The second footer widget area."
+msgstr "Второй виджет в подвале."
+
+#: library/sidebars.php:25
+#@ twentyten
+msgid "The third footer widget area."
+msgstr "Третий виджет в подвале"
+
+#: library/sidebars.php:26
+#@ twentyten
+msgid "The fourth footer widget area."
+msgstr "Четвертый виджет в подвале"
+
+#: library/widgets.php:5
+#@ twentyten
+msgid "sidebar default"
+msgstr "Сайдбар по умолчанию"
+
+#: library/widgets.php:6
+#@ twentyten
+msgid "block"
+msgstr "блок"
+
+#: library/widgets.php:7
+#@ twentyten
+msgid "post"
+msgstr "запись"
+
+#: library/widgets.php:8
+#@ twentyten
+msgid "simple text"
+msgstr "просто текст"
+
+#: library/widgets.php:126
+#@ twentyten
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr "Используйте этот виджет для добавления одного из ваших пользовательских меню как виджет."
+
+#: library/widgets.php:127
+#@ twentyten
+msgid "Vertical Menu"
+msgstr "Вертикальное меню"
+
+#: library/widgets.php:163
+#@ twentyten
+msgid "Title:"
+msgstr "Название:"
+
+#: library/widgets.php:167
+#@ twentyten
+msgid "Source"
+msgstr "Источник"
+
+#: library/widgets.php:181
+#, php-format
+#@ twentyten
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Меню не было создано. <a href=\"%s/\\\">Создайте несколько</a> ."
+
+#: library/widgets.php:184
+#@ twentyten
+msgid "Select Menu:"
+msgstr "Выберите Меню:"
+
+#: library/widgets.php:205
+#@ twentyten
+msgid "Login form"
+msgstr "Форма входа"
+
+#: library/widgets.php:206
+#@ twentyten
+msgid "Login"
+msgstr "Войти"
+
+#: library/widgets.php:219
+#@ twentyten
+msgid "Dashboard"
+msgstr "Управление"
+
+#: library/widgets.php:221
+#@ twentyten
+msgid "Publish"
+msgstr "Публикация"
+
+#: library/widgets.php:224
+#@ twentyten
+msgid "Log out"
+msgstr "Выйти"
+
+#: library/widgets.php:228
+#: library/widgets.php:247
+#@ twentyten
+msgid "Log In"
+msgstr "Войдите"
+
+#: library/widgets.php:234
+#@ twentyten
+msgid "Username"
+msgstr "Ваше имя"
+
+#: library/widgets.php:239
+#@ twentyten
+msgid "Password"
+msgstr "Пароль"
+
+#: library/widgets.php:244
+#@ twentyten
+msgid "Remember Me"
+msgstr "Запомнить"
+
+#: library/widgets.php:253
+#@ twentyten
+msgid "Register"
+msgstr "Регистрация"
+
+#: library/widgets.php:255
+#@ twentyten
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: searchform.php:3
+#@ twentyten
+msgid "Search"
+msgstr "Искать"
+
+#: functions.php:25
+#: functions.php:37
+#@ twentyten
+msgid "Current theme requires WordPress 3.0 or higher."
+msgstr "Текущая тема работает на WordPress версии 3.0 и выше."
+
+#: functions.php:27
+#: functions.php:39
+#, php-format
+#@ twentyten
+msgid "Please <a href=\"%s\">upgrade WordPress</a>, or <a href=\"%s\">use an earlier version of Artisteer (2.6 - 3.1)</a> to create themes for WordPress 2.6-2.9."
+msgstr "Пожалуйста, <a href=\"%s\">обновите WordPress</a>"
+
+#: functions.php:105
+#, php-format
+#@ twentyten
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: functions.php:770
+#, php-format
+#@ twentyten
+msgid "%s on "
+msgstr "%s на"
+
+#: library/admins.php:155
+#@ twentyten
+msgid "Page Header Image"
+msgstr "Изображение в заголовке страницы"
+
+#: library/admins.php:162
+#@ twentyten
+msgid "Post Header Image"
+msgstr "Изображение в заголовке записи"
+
+#: library/admins.php:214
+#@ twentyten
+msgid "Change Header Image"
+msgstr "Выберите изображение для заголовка"
+
+#: library/admins.php:280
+#@ twentyten
+msgid "Remove header image"
+msgstr "Удалить изображение для заголовка"
+
+#: library/admins.php:283
+#@ twentyten
+msgid "Set header image"
+msgstr "Выбрать изображение для заголовка"
+
+#: library/options.php:27
+#@ twentyten
+msgid "All pages"
+msgstr "Все страницы"
+
+#: library/options.php:28
+#@ twentyten
+msgid "Selected pages"
+msgstr "Выбрать страницы"
+
+#: library/options.php:29
+#@ twentyten
+msgid "All pages except selected"
+msgstr "Все страницы кроме выбранных"
+
+#: library/options.php:52
+#@ twentyten
+msgid "Make the header clickable"
+msgstr "Сделать заголовок кликабельным"
+
+#: library/options.php:58
+#@ twentyten
+msgid "Header link"
+msgstr "Ссылка для заголовка"
+
+#: library/options.php:60
+#@ twentyten
+msgid "Used when \"Make the header clickable\" is enabled"
+msgstr "Использовать, если включена опция  \"Сделать заголовок кликабельным\""
+
+#: library/options.php:78
+#@ twentyten
+msgid "Used when \"Show home item\" is enabled"
+msgstr "Использовать, если включена опция \"Показать ярлык главной\""
+
+#: library/options.php:96
+#: library/options.php:103
+#@ twentyten
+msgid "(characters). Used when \"Trim long menu items\" is enabled"
+msgstr "(символов). Использовать, если включена опция \"Тримировать длинные ярлыки меню\""
+
+#: library/options.php:159
+#@ twentyten
+msgid "(characters). Used when \"Trim long navigation links in single post view\" is enabled"
+msgstr "(символов). Использовать, если включена опция \"Тримировать длинные заголовки на одиночной записи\""
+
+#: library/options.php:204
+#: library/options.php:211
+#@ twentyten
+msgid "(words). Used when \"Use auto excerpts\" is enabled"
+msgstr "(слов). Использовать, если включена опция \"Использовать авто-отрывок\""
+
+#: library/options.php:271
+#@ twentyten
+msgid "Yes. Used when \"Allow Comments\" is enabled"
+msgstr "Да. Использовать, если включена опция \"Показать комментарии\""
+
+#: library/options.php:294
+#@ twentyten
+msgid "Nav sidebars"
+msgstr "Навигационный сайдбар"
+
+#: library/options.php:312
+#@ twentyten
+msgid "Header sidebars"
+msgstr "Сайдбар в заголовке"
+
+#: library/options.php:328
+#@ twentyten
+msgid "Override default theme footer content"
+msgstr "Отменить по умолчанию содержимое в подвале"
+
+#: library/options.php:337
+#@ twentyten
+msgid "Used when \"Override default theme footer content\" is enabled"
+msgstr "Использовать, если включена опция \"Отменить по умолчанию содержимое в подвале\""
+
+#: library/options.php:461
+#@ twentyten
+msgid "Show Header on Page"
+msgstr "Показывать заголовок на странице"
+
+#: library/options.php:467
+#@ twentyten
+msgid "Show Default Sidebar on Page"
+msgstr "Показать Сайдбар по умолчанию на странице"
+
+#: library/options.php:473
+#@ twentyten
+msgid "Show Secondary Sidebar on Page"
+msgstr "Показать дополнительный Сайдбар на странице"
+
+#: library/options.php:494
+#@ twentyten
+msgid "Appearance:"
+msgstr "Внешний вид:"
+
+#: library/options.php:500
+#@ twentyten
+msgid "Show widget on:"
+msgstr "Показать виджет на:"
+
+#: library/options.php:508
+#@ twentyten
+msgid "Front page"
+msgstr "главная страница"
+
+#: library/options.php:515
+#@ twentyten
+msgid "Single posts"
+msgstr "одиночная запись"
+
+#: library/options.php:522
+#@ twentyten
+msgid "Single pages"
+msgstr "статичная страница"
+
+#: library/options.php:529
+#@ twentyten
+msgid "Posts page"
+msgstr "страница архива записей"
+
+#: library/options.php:536
+#@ twentyten
+msgid "Page IDs (comma separated)"
+msgstr "Уникальные IDs страниц (через запятые)"
+
+#: library/sidebars.php:14
+#@ twentyten
+msgid "Header Widget Area"
+msgstr "Динамичный виджет в заголовке"
+
+#: library/sidebars.php:14
+#@ twentyten
+msgid "The header widget area. Use the unique widget ids to control the design and position of individual widgets with CSS code."
+msgstr "Это область виджета в заголовке. Используйте для размещения отдельного виджета с CSS"
+
+#: library/sidebars.php:16
+#@ twentyten
+msgid "First Navigation Widget Area"
+msgstr "Первая область навигационного виджета"
+
+#: library/sidebars.php:16
+#@ twentyten
+msgid "This sidebar is displayed before the horizontal menu."
+msgstr "Этот сайдбар будет показан до меню навигации"
+
+#: library/sidebars.php:17
+#@ twentyten
+msgid "Second Navigation Widget Area"
+msgstr "Дополнительная область навигационного виджета"
+
+#: library/sidebars.php:17
+#@ twentyten
+msgid "This sidebar is displayed after the horizontal menu."
+msgstr "Это сайдбар будет показан после навигационного меню"
+

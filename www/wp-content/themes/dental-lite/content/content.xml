@@ -1,0 +1,479 @@
+<site>
+ <posts />
+ <pages customHeadHtml="">
+  <page author="" caption="Главная" customHeadHtml="" dateModified="12/24/2014 14:56:45" description="" keywords="" metaTags="" name="главная" path="/главная" showInHmenu="True" showInVmenu="True" showTitle="False" title="Home" titleInBrowser="Home">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 { margin-top: 15px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;  }
+.content .postcontent-0 .layout-item-1 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#9EC8EA;border-right-color:#9EC8EA;border-bottom-color:#9EC8EA;border-left-color:#9EC8EA; color: #0E2B43; background: ;  border-collapse: separate;  }
+.content .postcontent-0 .layout-item-2 { border-right-style:solid;border-right-width:1px;border-right-color:#FFFFFF; color: #FFFFFF; background: #2FA8D0; padding-top: 10px;padding-right: 25px;padding-bottom: 10px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-3 { color: #FFFFFF; background: #2FA8D0; padding-top: 10px;padding-right: 25px;padding-bottom: 10px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-4 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#9EC8EA;border-right-color:#9EC8EA;border-bottom-color:#9EC8EA;border-left-color:#9EC8EA; color: #0E2B43;  border-collapse: separate;  }
+.content .postcontent-0 .layout-item-5 { color: #696969; background: ; padding-top: 10px;padding-right: 25px;padding-bottom: 10px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-6 { color: #696969; background: ; padding-top: 10px;padding-right: 25px;padding-bottom: 10px;padding-left: 25px; border-radius: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout-wrapper layout-item-0"&gt;
+&lt;div class="content-layout layout-item-1"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-2" style="width: 33%" &gt;
+        &lt;table class="article" style="width: 100%; "&gt;
+                                                                        &lt;tbody&gt;
+                                                                        &lt;tr&gt;
+                                                                        &lt;td style="width: 25%; "&gt;&lt;img width="53" height="47" alt="" src="./images/i3-2.png" style="margin-top: 5px; "&gt;&lt;br&gt;&lt;/td&gt;
+                                                                        &lt;td style="width: 75%; "&gt;&lt;h1&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;DENTAL JEWELRY&lt;/span&gt;&lt;/h1&gt;&lt;/td&gt;
+                                                                        &lt;/tr&gt;
+                                                                        &lt;/tbody&gt;
+                                                                        &lt;/table&gt;
+                                                                                &lt;p&gt;Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam. Praesent mattis, massa quis luctus fermentum.&lt;/p&gt;
+                                                                                &lt;p&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+                                                                    &lt;/p&gt;&lt;p&gt;
+                                                            &lt;/p&gt;&lt;p&gt;
+                                                    &lt;/p&gt;&lt;p&gt;
+                                    &lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 34%" &gt;
+        &lt;table class="article" style="width: 100%; "&gt;
+                                                                        &lt;tbody&gt;
+                                                                        &lt;tr&gt;
+                                                                        &lt;td style="width: 25%; "&gt;&lt;img width="47" height="47" alt="" src="./images/i1-2.png" style="margin-top: 5px; " class=""&gt;&lt;br&gt;&lt;/td&gt;
+                                                                        &lt;td style="width: 75%; "&gt;&lt;h1&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;METAL CERAMICS&lt;/span&gt;&lt;/h1&gt;&lt;/td&gt;
+                                                                        &lt;/tr&gt;
+                                                                        &lt;/tbody&gt;
+                                                                        &lt;/table&gt;
+                                                        &lt;p&gt;Donec acumsan malesuada orcidon sitmet erolorem adipiscg maurise. Praesent mattis, massa quis luctus.&lt;/p&gt;
+                                                        &lt;p&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+                                                    &lt;/p&gt;&lt;p&gt;
+                                    &lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-3" style="width: 33%" &gt;
+        &lt;table class="article" style="width: 100%; "&gt;
+                                                                        &lt;tbody&gt;
+                                                                        &lt;tr&gt;
+                                                                        &lt;td style="width: 30%; "&gt;&lt;img width="66" height="44" alt="" src="./images/i2-2.png" style="margin-top: 5px; " class=""&gt;&lt;br&gt;&lt;/td&gt;
+                                                                        &lt;td style="width: 75%; "&gt;&lt;h1&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;BLEACHING&lt;/span&gt;&lt;/h1&gt;&lt;/td&gt;
+                                                                        &lt;/tr&gt;
+                                                                        &lt;/tbody&gt;
+                                                                        &lt;/table&gt;
+                                                &lt;p&gt;Utenim adminim veniam, quis nostrud exercitation ullamco. Praesent mattis, massa quis luctus fermentum, turpis.&lt;/p&gt;
+                                                &lt;p&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+                                            &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-layout layout-item-4"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-5" style="width: 33%" &gt;
+        &lt;h1&gt;Welcome!&lt;/h1&gt;
+        &lt;p&gt;&lt;img width="288" height="170" alt="" src="./images/P1.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean auctor libero sed ant imperdiet erat. Sed ut perspiciatis unde omnis iste natus errorsit voluptatem.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#" class="button"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-6" style="width: 34%" &gt;
+        &lt;h1&gt;Straighten Teeth&lt;/h1&gt;
+        &lt;p&gt;&lt;img width="288" height="170" alt="" class="lightbox" src="./images/P2.jpg"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Laudantium totam rem aperiam eaque ipsa quae a illo inventore veritatis et quasi archite.&amp;nbsp;Aenean nonummy hendrerit mauris phasellus porta fusce suscipit varius mienean nonummy hendrerit mauris.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="#" class="button"&gt;Read More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-5" style="width: 33%" &gt;
+        &lt;h1&gt;Category&lt;/h1&gt;
+        &lt;p&gt;Donec acumsan malesuada orcidon sitmet erolorem adipiscg maurise. Praesent mattis, massa quis luctus. Aenean nonummy hendrerit mauris.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Tooth Jewellery&lt;/li&gt;
+        &lt;li&gt;Dental Fillings&lt;/li&gt;
+        &lt;li&gt;Root Canal Treatment&lt;/li&gt;
+        &lt;li&gt;Scaling&lt;/li&gt;
+        &lt;li&gt;Crowns and Bridges&lt;/li&gt;
+        &lt;li&gt;Extraction&lt;/li&gt;
+        &lt;li&gt;Veneers / Laminates&lt;/li&gt;
+        &lt;li&gt;Tooth Whitening&lt;/li&gt;
+        &lt;li&gt;Child Dentistry&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout-wrapper layout-item-0"&gt;
+&lt;div class="content-layout layout-item-1"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-2" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-3" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="content-layout layout-item-4"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-5" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-6" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-5" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;table class="article" style="width: 100%; "&gt;
+                                                                &lt;tbody&gt;
+                                                                &lt;tr&gt;
+                                                                &lt;td style="width: 25%; "&gt;&lt;img width="53" height="47" alt="" src="i3-2.png" style="margin-top: 5px; "&gt;&lt;br&gt;&lt;/td&gt;
+                                                                &lt;td style="width: 75%; "&gt;&lt;h1&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;DENTAL JEWELRY&lt;/span&gt;&lt;/h1&gt;&lt;/td&gt;
+                                                                &lt;/tr&gt;
+                                                                &lt;/tbody&gt;
+                                                                &lt;/table&gt;
+                                                                        &lt;p&gt;Lorem ipsum dolor sit amet, cons ectetuer adipiscing elit, sed diam. Praesent mattis, massa quis luctus fermentum.&lt;/p&gt;
+                                                                        &lt;p&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+                                                            &lt;/p&gt;&lt;p&gt;
+                                                    &lt;/p&gt;&lt;p&gt;
+                                            &lt;/p&gt;&lt;p&gt;
+                            &lt;/p&gt;</content>
+     <content>&lt;table class="article" style="width: 100%; "&gt;
+                                                                &lt;tbody&gt;
+                                                                &lt;tr&gt;
+                                                                &lt;td style="width: 25%; "&gt;&lt;img width="47" height="47" alt="" src="i1-2.png" style="margin-top: 5px; " class=""&gt;&lt;br&gt;&lt;/td&gt;
+                                                                &lt;td style="width: 75%; "&gt;&lt;h1&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;METAL CERAMICS&lt;/span&gt;&lt;/h1&gt;&lt;/td&gt;
+                                                                &lt;/tr&gt;
+                                                                &lt;/tbody&gt;
+                                                                &lt;/table&gt;
+                                                &lt;p&gt;Donec acumsan malesuada orcidon sitmet erolorem adipiscg maurise. Praesent mattis, massa quis luctus.&lt;/p&gt;
+                                                &lt;p&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+                                            &lt;/p&gt;&lt;p&gt;
+                            &lt;/p&gt;</content>
+     <content>&lt;table class="article" style="width: 100%; "&gt;
+                                                                &lt;tbody&gt;
+                                                                &lt;tr&gt;
+                                                                &lt;td style="width: 30%; "&gt;&lt;img width="66" height="44" alt="" src="i2-2.png" style="margin-top: 5px; " class=""&gt;&lt;br&gt;&lt;/td&gt;
+                                                                &lt;td style="width: 75%; "&gt;&lt;h1&gt;&lt;span style="color: rgb(255, 255, 255); "&gt;BLEACHING&lt;/span&gt;&lt;/h1&gt;&lt;/td&gt;
+                                                                &lt;/tr&gt;
+                                                                &lt;/tbody&gt;
+                                                                &lt;/table&gt;
+                                        &lt;p&gt;Utenim adminim veniam, quis nostrud exercitation ullamco. Praesent mattis, massa quis luctus fermentum, turpis.&lt;/p&gt;
+                                        &lt;p&gt;&lt;a href="#"&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;p&gt;
+                                    &lt;/p&gt;</content>
+     <content>&lt;h1&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;&lt;img width="288" height="170" alt="" src="P1.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean auctor libero sed ant imperdiet erat. Sed ut perspiciatis unde omnis iste natus errorsit voluptatem.&lt;/p&gt;
+&lt;p&gt;&lt;a href="#" class="button"&gt;Read More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;h1&gt;Straighten Teeth&lt;/h1&gt;
+&lt;p&gt;&lt;img width="288" height="170" alt="" class="lightbox" src="P2.jpg"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Laudantium totam rem aperiam eaque ipsa quae a illo inventore veritatis et quasi archite.&amp;nbsp;Aenean nonummy hendrerit mauris phasellus porta fusce suscipit varius mienean nonummy hendrerit mauris.&lt;/p&gt;
+&lt;p&gt;&lt;a href="#" class="button"&gt;Read More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;h1&gt;Category&lt;/h1&gt;
+&lt;p&gt;Donec acumsan malesuada orcidon sitmet erolorem adipiscg maurise. Praesent mattis, massa quis luctus. Aenean nonummy hendrerit mauris.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tooth Jewellery&lt;/li&gt;
+&lt;li&gt;Dental Fillings&lt;/li&gt;
+&lt;li&gt;Root Canal Treatment&lt;/li&gt;
+&lt;li&gt;Scaling&lt;/li&gt;
+&lt;li&gt;Crowns and Bridges&lt;/li&gt;
+&lt;li&gt;Extraction&lt;/li&gt;
+&lt;li&gt;Veneers / Laminates&lt;/li&gt;
+&lt;li&gt;Tooth Whitening&lt;/li&gt;
+&lt;li&gt;Child Dentistry&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="О нас" customHeadHtml="" dateModified="09/07/2013 14:20:29" description="" keywords="" metaTags="" name="о-нас" path="/о-нас" showInHmenu="True" showInVmenu="True" showTitle="True" title="About Us" titleInBrowser="About Us">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 { padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-0" style="width: 33%" &gt;
+        &lt;p&gt;&lt;img width="288" height="193" alt="" src="./images/v1-2.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-0" style="width: 67%" &gt;
+        &lt;h3&gt;Maecenas ornare tortor&lt;br&gt;&lt;/h3&gt;
+        &lt;p&gt;Donec sed tellus eget sapien fringilla nonummy. Mauris a ante suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-0" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-0" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img width="288" height="193" alt="" src="v1-2.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Maecenas ornare tortor&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;Donec sed tellus eget sapien fringilla nonummy. Mauris a ante suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Сервис" customHeadHtml="" dateModified="09/07/2013 14:06:12" description="" keywords="" metaTags="" name="сервис" path="/сервис" showInHmenu="True" showInVmenu="True" showTitle="True" title="Services" titleInBrowser="Services">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 {  border-collapse: separate;  }
+.content .postcontent-0 .layout-item-1 { padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-2 { color: #696969; background: ; padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px; border-radius: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;img width="288" height="193" alt="" src="./images/v2-2.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        &lt;h3&gt;Maecenas ornare tortor&lt;br&gt;&lt;/h3&gt;
+        &lt;p&gt;Donec sed tellus eget sapien fringilla nonummy. Mauris a ante suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+        &lt;ul style="margin-left: 0px;"&gt;&lt;li&gt;Est eligendi optio co niimpedituo minus.&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobi.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Solunobis est eligendi cumqedit quo ms tristique orci ac sem.&lt;/li&gt;&lt;li&gt;Duis ultricies arra.&amp;nbsp;Est eligendi optio co niimpedituo minus.&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobis.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+        &lt;/p&gt;&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img width="288" height="193" alt="" src="v2-2.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Maecenas ornare tortor&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;Donec sed tellus eget sapien fringilla nonummy. Mauris a ante suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+&lt;ul style="margin-left: 0px;"&gt;&lt;li&gt;Est eligendi optio co niimpedituo minus.&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobi.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Solunobis est eligendi cumqedit quo ms tristique orci ac sem.&lt;/li&gt;&lt;li&gt;Duis ultricies arra.&amp;nbsp;Est eligendi optio co niimpedituo minus.&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobis.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Доктора" customHeadHtml="" dateModified="09/07/2013 14:07:08" description="" keywords="" metaTags="" name="доктора" path="/доктора" showInHmenu="True" showInVmenu="True" showTitle="True" title="Doctors" titleInBrowser="Doctors">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 {  border-collapse: separate;  }
+.content .postcontent-0 .layout-item-1 { padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-2 { color: #696969; background: ; padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px; border-radius: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;img width="288" height="193" alt="" src="./images/v1-2.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        &lt;h3&gt;Praesent mattis, massa quis mentum&lt;/h3&gt;
+        &lt;p&gt;turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.&amp;nbsp;&lt;abbr title="National Basketball Association"&gt;NBA&lt;/abbr&gt;&amp;nbsp;Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img width="288" height="193" alt="" src="v1-2.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Praesent mattis, massa quis mentum&lt;/h3&gt;
+&lt;p&gt;turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.&amp;nbsp;&lt;abbr title="National Basketball Association"&gt;NBA&lt;/abbr&gt;&amp;nbsp;Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Стандарты" customHeadHtml="" dateModified="09/07/2013 14:07:41" description="" keywords="" metaTags="" name="стандарты" path="/стандарты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Standards" titleInBrowser="Standards">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 {  border-collapse: separate;  }
+.content .postcontent-0 .layout-item-1 { padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-2 { color: #696969; background: ; padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px; border-radius: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;img width="288" height="193" alt="" src="./images/v2-2.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        &lt;h3&gt;Maecenas ornare tortor&lt;br&gt;&lt;/h3&gt;
+        &lt;p&gt;Donec sed tellus eget sapien fringilla nonummy. Mauris a ante suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+        &lt;ul style="margin-left: 0px;"&gt;&lt;li&gt;Est eligendi optio co niimpedituo minus.&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobi.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Solunobis est eligendi cumqedit quo ms tristique orci ac sem.&lt;/li&gt;&lt;li&gt;Duis ultricies arra.&amp;nbsp;Est eligendi optio co niimpedituo minus.&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobis.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+        &lt;/p&gt;&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img width="288" height="193" alt="" src="v2-2.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Maecenas ornare tortor&lt;br&gt;&lt;/h3&gt;
+&lt;p&gt;Donec sed tellus eget sapien fringilla nonummy. Mauris a ante suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&amp;nbsp;Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+&lt;ul style="margin-left: 0px;"&gt;&lt;li&gt;Est eligendi optio co niimpedituo minus.&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobi.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Solunobis est eligendi cumqedit quo ms tristique orci ac sem.&lt;/li&gt;&lt;li&gt;Duis ultricies arra.&amp;nbsp;Est eligendi optio co niimpedituo minus.&lt;/li&gt;&lt;li&gt;At vero eo etusam. Iustdigne imos similique cobis.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Партнеры" customHeadHtml="" dateModified="09/07/2013 14:20:47" description="" keywords="" metaTags="" name="партнеры" path="/партнеры" showInHmenu="True" showInVmenu="True" showTitle="True" title="Partners" titleInBrowser="Partners">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 {  border-collapse: separate;  }
+.content .postcontent-0 .layout-item-1 { padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;  }
+.content .postcontent-0 .layout-item-2 { color: #696969; background: ; padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px; border-radius: 10px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;img width="288" height="193" alt="" src="./images/v1-3.jpg"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        &lt;h3&gt;Praesent mattis, massa quis mentum&lt;/h3&gt;
+        &lt;p&gt;turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.&amp;nbsp;&lt;abbr title="National Basketball Association"&gt;NBA&lt;/abbr&gt;&amp;nbsp;Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+        &lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img width="288" height="193" alt="" src="v1-3.jpg"&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;h3&gt;Praesent mattis, massa quis mentum&lt;/h3&gt;
+&lt;p&gt;turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy.&amp;nbsp;&lt;abbr title="National Basketball Association"&gt;NBA&lt;/abbr&gt;&amp;nbsp;Mauris a ante.&amp;nbsp;Suspendisse quam sem, consequat at, commodo vitae. Morbi imperdiet augue quis tellus.&amp;nbsp;Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor.&lt;/p&gt;
+&lt;p&gt;&lt;a href="" class="button"&gt;Learn More&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Контакты" customHeadHtml="" dateModified="09/07/2013 14:08:21" description="" keywords="" metaTags="" name="контакты" path="/контакты" showInHmenu="True" showInVmenu="True" showTitle="True" title="Contacts" titleInBrowser="Contacts">
+   <pageHead>&lt;style&gt;.content .postcontent-0 .layout-item-0 { color: #878787; background: ;  border-collapse: separate; border-radius: 10px;  }
+.content .postcontent-0 .layout-item-1 { color: #696969; padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px; border-top-left-radius: 10px;border-bottom-left-radius: 10px;  }
+.content .postcontent-0 .layout-item-2 { color: #696969; padding-top: 5px;padding-right: 25px;padding-bottom: 25px;padding-left: 25px;  }
+.ie7 .post .layout-cell {border:none !important; padding:0 !important; }
+.ie6 .post .layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        &lt;p&gt;&lt;img width="288" height="193" alt="" src="./images/v2-2.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;br&gt;
+        &lt;br&gt;
+         Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;br&gt;
+         &lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+        &lt;h3&gt;Address&lt;/h3&gt;
+        &lt;p&gt;9870 St Vincent Place,&lt;br&gt;Glasgow, DC 45 Fr 45&lt;/p&gt;
+        &lt;h3&gt;Telephone&lt;/h3&gt;
+        &lt;p&gt;Freephone: +1 800 559 6580&lt;br&gt;Telephone: +1 959 603 6035&lt;/p&gt;
+        &lt;h3&gt;E-mail&lt;/h3&gt;
+        &lt;p&gt;&lt;a&gt;info@democompany.com&lt;br&gt;&lt;/a&gt;&lt;span style="color: rgb(247, 129, 39); font-size: 14px; font-weight: bold; line-height: 21px;"&gt;&lt;/span&gt;&lt;/p&gt;
+        &lt;h3&gt;Web Site&lt;/h3&gt;
+        &lt;p&gt;&lt;a&gt;www.democompany.com&lt;br&gt;&lt;/a&gt;&lt;span style="color: rgb(247, 129, 39); font-size: 14px; font-weight: bold; line-height: 21px;"&gt;&lt;/span&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="content-layout layout-item-0"&gt;
+    &lt;div class="content-layout-row"&gt;
+    &lt;div class="layout-cell layout-item-1" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="layout-cell layout-item-2" style="width: 67%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img width="288" height="193" alt="" src="v2-2.jpg" class=""&gt;&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;br&gt;
+&lt;br&gt;
+ Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;br&gt;
+ &lt;a href="#"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Address&lt;/h3&gt;
+&lt;p&gt;9870 St Vincent Place,&lt;br&gt;Glasgow, DC 45 Fr 45&lt;/p&gt;
+&lt;h3&gt;Telephone&lt;/h3&gt;
+&lt;p&gt;Freephone: +1 800 559 6580&lt;br&gt;Telephone: +1 959 603 6035&lt;/p&gt;
+&lt;h3&gt;E-mail&lt;/h3&gt;
+&lt;p&gt;&lt;a&gt;info@democompany.com&lt;br&gt;&lt;/a&gt;&lt;span style="color: rgb(247, 129, 39); font-size: 14px; font-weight: bold; line-height: 21px;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Web Site&lt;/h3&gt;
+&lt;p&gt;&lt;a&gt;www.democompany.com&lt;br&gt;&lt;/a&gt;&lt;span style="color: rgb(247, 129, 39); font-size: 14px; font-weight: bold; line-height: 21px;"&gt;&lt;/span&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Новости" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="новости" path="/новости" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница" titleInBrowser="Новая страница">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Запись" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="запись" path="/запись" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница" titleInBrowser="Новая страница">
+   <pageHead></pageHead>
+   <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+   <pages>
+    <page author="" caption="Новая страница" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="новая-страница" path="/запись/новая-страница" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница" titleInBrowser="Новая страница">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+    <page author="" caption="Новая страница 2" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="новая-страница-2" path="/запись/новая-страница-2" showInHmenu="True" showInVmenu="True" showTitle="True" title="Новая страница 2" titleInBrowser="Новая страница 2">
+     <pageHead></pageHead>
+     <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+     <layout>
+      <struct>{content}</struct>
+      <contents>
+       <content>&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content>
+      </contents>
+     </layout>
+    </page>
+   </pages>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>
